@@ -1,5 +1,20 @@
 # Redux-Saga
 
+### Связаться со мной:
+[<img alt="webDev | YouTube" src="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />][youtube]
+[<img alt="webDev | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
+[<img alt="webDev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img alt="webDev | Twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />][twitter]
+[<img alt="webDev | VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />][vk]
+
+### Поддержать канал:
+<a href="https://www.youtube.com/channel/UCE9ODjNIkOHrnSdkYWLfYhg/join">
+  <img src="https://github.com/YauhenKavalchuk/YauhenKavalchuk/blob/master/assets/youtube_sponsor.png" width="160">
+</a>
+<a href="https://www.patreon.com/YauhenKavalchuk">
+  <img src="https://github.com/YauhenKavalchuk/YauhenKavalchuk/blob/master/assets/patreon_patron.png" width="160">
+</a>
+
 ### Описание курса:
 В данном видеокурсе мы с вами рассмотрим интуитивный менеджер сайд-эффектов для Redux - Redux-Saga.
 
@@ -26,19 +41,6 @@
 - #0 Введение (Introduction)
 - #1 Базовые концепции (Basic Concepts)
 - #2 Установка и настройка окружения (Setup Environment)
-
-## Автор курса в социальных сетях:
-[<img align="left" alt="webDev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="webDev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="webDev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="webDev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
-[<img align="left" alt="webDev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]&nbsp;
-
-## Поддержать канал:
-
-<a href="https://www.patreon.com/YauhenKavalchuk" target="_blank">
-  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
 
 [youtube]: https://youtube.com/YauhenKavalchuk
 [instagram]: https://instagram.com/YauhenKavalchuk
