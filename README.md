@@ -19,12 +19,14 @@
 В данном видеокурсе мы с вами рассмотрим интуитивный менеджер сайд-эффектов для Redux - Redux-Saga.
 
 ## Используемые инструменты:
+- [Node.js](https://nodejs.org/en/)
+- [Create React App](https://create-react-app.dev)
 - [Visual Studio Code (редактор кода)](https://code.visualstudio.com)
-- [JSON Viewer (удобная работа с JSON)](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=ru)
+- [Redux DevTools (расширение для Chrome)](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en)
 
 ## Полезные ссылки:
+- [Redux DevTools (установка)](https://github.com/zalmoxisus/redux-devtools-extension#installation)
 - [Redux-Saga (официальный сайт)](https://redux-saga.js.org)
-- [Node Package Manager](https://www.npmjs.com)
 
 ## Полезные курсы:
 - [React & Redux](https://www.youtube.com/playlist?list=PLNkWIWHIRwME_Gv2vlWAR6TfeSXylYfw4)
@@ -33,8 +35,8 @@
 - Клонируйте репозиторий: `git clone https://github.com/YauhenKavalchuk/redux-saga.git`
 - Перейдите в папку с проектом: `cd node-js`
 - Перейдите в нужную ветку соответствующую уроку:
-  - `git checkout lesson_01`
   - `git checkout lesson_02`
+  - `git checkout lesson_03`
   - `git checkout lesson_10` и т.д.
 
 ## Список уроков
