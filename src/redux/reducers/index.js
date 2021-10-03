@@ -1,11 +1,11 @@
 import { combineReducers } from 'redux';
 
-const counter = (state = {}, action) => {
+const test = (state = {}, action) => {
   return state;
 }
 
 const reducer = combineReducers({
-  counter,
+  test,
 });
 
 export default reducer;
