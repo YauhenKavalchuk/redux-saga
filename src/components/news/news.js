@@ -1,8 +1,8 @@
 import './news.css';
 
-const News = ({ news, title }) => {
+const News = ({ news, error, title }) => {
   if (!news || news.length === 0) {
-    return null;
+    return error ? <h2>{error}</h2> : null;
   }
 
   return(
