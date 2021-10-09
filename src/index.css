@@ -1,23 +1,65 @@
+html,
 body {
+  padding: 0;
   margin: 0;
-  padding: 20px;
+}
+
+body {
   font-family: "Montserrat", sans-serif;
   background: linear-gradient(to bottom, #59c173, #a17fe0, #5d26c1);
   min-height: 100vh;
   color: #fff;
 }
 
-button {
-  width: 100%;
-  padding: 20px 30px;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  font-size: 16px;
-  color: #fff;
-  border: none;
-  background-color: rgba(0, 0, 0, 0.4);
+#root {
+  min-height: 100vh;
+  display: grid;
+  grid-auto-rows: auto 1fr auto;
 }
 
-button:hover {
-  background-color: rgba(0, 0, 0, 0.6);
+main {
+  padding: 20px;
+}
+
+main .wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  flex-direction: column;
+}
+
+header,
+footer {
+  min-height: 80px;
+}
+
+header {
+  background-image: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0.7),
+    rgba(0, 0, 0, 0.5)
+  );
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 0 20px;
+}
+
+footer {
+  background-image: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0.7),
+    rgba(0, 0, 0, 0.5)
+  );
+  text-align: center;
+  font-size: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-transform: uppercase;
+}
+
+footer h3 {
+  font-weight: 300;
 }

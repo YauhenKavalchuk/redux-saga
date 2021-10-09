@@ -1,0 +1,25 @@
+.nav {
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav .links {
+  height: 100%;
+}
+
+.nav a {
+  height: 100%;
+  display: inline-flex;
+  align-items: center;
+  padding: 0 10px;
+  text-transform: uppercase;
+  color: #fff;
+  text-decoration: none;
+}
+
+.nav a:hover,
+.nav a.active {
+  background-color: rgba(0, 0, 0, 0.4);
+}
