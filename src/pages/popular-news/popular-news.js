@@ -1,6 +1,7 @@
+import { useEffect } from "react";
 import { useSelector, useDispatch } from "react-redux";
 import { getNews } from "../../redux/actions/actionCreator";
-import News from '../../components/news/news';
+import News from "../../components/news/news";
 
 const App = () => {
   const { popularNews } = useSelector(store => store?.news || {});
