@@ -1,7 +1,6 @@
 import {
   SET_LATEST_NEWS,
   SET_POPULAR_NEWS,
-  GET_NEWS,
 } from "../constants";
 
 export const setLatestNews = (payload) => ({
@@ -12,8 +11,4 @@ export const setLatestNews = (payload) => ({
 export const setPopularNews = (payload) => ({
   type: SET_POPULAR_NEWS,
   payload,
-});
-
-export const getNews = () => ({
-  type: GET_NEWS,
 });
