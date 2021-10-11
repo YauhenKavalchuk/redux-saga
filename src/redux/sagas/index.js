@@ -1,4 +1,4 @@
-import { put, call, all, take, fork } from 'redux-saga/effects';
+import { put, call, all, takeEvery, fork } from 'redux-saga/effects';
 import {
   GET_LATEST_NEWS,
   GET_POPULAR_NEWS,
@@ -27,13 +27,11 @@ export function* handlePopularNews() {
 }
 
 export function* watchPopularSaga() {
-  yield take(GET_POPULAR_NEWS);
-  yield call(handlePopularNews);
+  yield takeEvery(GET_POPULAR_NEWS, handlePopularNews);
 }
 
 export function* watchLatestSaga() {
-  yield take(GET_LATEST_NEWS);
-  yield call(handleLatestNews);
+  yield takeEvery(GET_LATEST_NEWS, handleLatestNews);
 }
 
 export default function* rootSaga() {
