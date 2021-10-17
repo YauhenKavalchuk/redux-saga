@@ -39,6 +39,8 @@ Redux-saga - это библиотека, которая призвана упр
   - `git checkout lesson_02`
   - `git checkout lesson_03`
   - `git checkout lesson_10` и т.д.
+- Установите зависимости: `yarn install`
+- Запустите проект: `yarn start`
 
 ---
 
