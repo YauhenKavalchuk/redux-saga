@@ -1,5 +1,5 @@
 import { createStore, compose } from 'redux';
-import reducer from './reducers/index';
+import reducer from './reducers';
 
 const composeEnhancers =
   typeof window === 'object' &&
