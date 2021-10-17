@@ -36,9 +36,11 @@ Redux-saga - это библиотека, которая призвана упр
 - Клонируйте репозиторий: `git clone https://github.com/YauhenKavalchuk/redux-saga.git`
 - Перейдите в папку с проектом: `cd redux-saga`
 - Перейдите в нужную ветку соответствующую уроку:
-  - `git checkout lesson_01`
   - `git checkout lesson_02`
+  - `git checkout lesson_03`
   - `git checkout lesson_10` и т.д.
+- Установите зависимости: `yarn install`
+- Запустите проект: `yarn start`
 
 ---
 
