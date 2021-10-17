@@ -34,7 +34,7 @@ Redux-saga - это библиотека, которая призвана упр
 
 ### Быстрый старт
 - Клонируйте репозиторий: `git clone https://github.com/YauhenKavalchuk/redux-saga.git`
-- Перейдите в папку с проектом: `cd node-js`
+- Перейдите в папку с проектом: `cd redux-saga`
 - Перейдите в нужную ветку соответствующую уроку:
   - `git checkout lesson_02`
   - `git checkout lesson_03`
