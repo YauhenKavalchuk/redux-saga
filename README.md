@@ -45,20 +45,20 @@ Redux-saga - это библиотека, которая призвана упр
 ---
 
 ### Список уроков
-- #0 Введение (Introduction)
-- #1 Базовые концепции (Basic Concepts)
-- #2 Установка и настройка окружения (Setup Environment)
-- #3 Интеграция Redux (Redux Integration)
-- #4 Интеграция Redux-Saga (Redux-Saga Integration)
-- #5 Эффекты и запрос данных (Effects & Data Fetching)
-- #6 Сохранение данных в стор (Saving Data Into Redux-Store)
-- #7 Параллельные задачи (Parallel Tasks)
-- #8 Обработка ошибок (Errors Handling)
-- #9 Интеграция React Router (React Router Integration)
-- #10 Структура корневой Саги (Root Saga Structure)
-- #11 Интеграция Connected-React-Router (Connected-React-Router Integration)
-- #12 Полезные эффекты (Useful Effects)
-- #13 Загрузка приложения на Netlify (Deploying To Netlify)
+- [#0 Введение (Introduction)](https://youtu.be/TGqixbqAlxQ)
+- [#1 Основные понятия (Basic Concepts)](https://youtu.be/yFHjqVI6k-I)
+- [#2 Установка и настройка окружения (Setup Environment)](https://youtu.be/GLzthfaWJkM)
+- [#3 Интеграция Redux (Redux Integration)](https://youtu.be/rolecAf5QJA)
+- [#4 Интеграция Redux-Saga (Redux-Saga Integration)](https://youtu.be/PPnB8A2gfLM)
+- [#5 Эффекты и запрос данных (Effects & Data Fetching)](https://youtu.be/Tz0G2Obdycc)
+- [#6 Сохранение данных в стор (Saving Data Into Redux-Store)](https://youtu.be/L9OpbnImmss)
+- [#7 Параллельные задачи (Parallel Tasks)](https://youtu.be/LiEAhXFA8CI)
+- [#8 Обработка ошибок (Errors Handling)](https://youtu.be/BsAAeymkuWk)
+- [#9 Интеграция React Router (React Router Integration)](https://youtu.be/H-NSvefe_2w)
+- [#10 Структура корневой Саги (Root Saga Structure)](https://youtu.be/tT0OWlcSSuc)
+- [#11 Интеграция Connected-React-Router (Connected-React-Router Integration)](https://youtu.be/tW-3I_sGoBA)
+- [#12 Полезные эффекты (Useful Effects)](https://youtu.be/ZvGmctJe9Cc)
+- [#13 Деплой на Netlify (Deploying To Netlify)](https://youtu.be/hmIR9xHZEOk)
 
 ---
 
